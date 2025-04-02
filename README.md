@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Abdulrhman**, an electrical engineering student with a passion for embedded software and hardware, especially in the areas of **security** and **control applications**, such as flight controllers.  
+I'm **Abdulrhman**, an electrical engineering student with a passion for embedded software and hardware, especially in the areas of **security** and **control applications**, such as pid controllers.  
 
 Explore my open-source hardware and software projects here! Most of them are hobby and educational projects. Feel free to check them out, test them, and submit an issue if you find anything that could be improved or fixed.
 
