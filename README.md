@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 I'm **Abdulrhman**, an electrical engineering student interested in embedded software and hardware, especially in the areas of **security** and **control applications**, such as pid controllers.  
 
